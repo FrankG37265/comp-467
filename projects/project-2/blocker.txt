@@ -1,0 +1,1016 @@
+Test # 2, Build # 2024-03-19 00:00:00: User clicked on the Adventures button from the main menu options.
+Test # 3, Build # 2024-03-19 00:00:00: User clicked on the Adventures button from the main menu options. Once there, user clicks on one of the level selection bubbles on the map to start the adventure. It opens another sliding screen from the right.
+Test # 1, Build # 2024-03-20 00:00:00: Bug Case: Cannot leave screen and clicks do not register
+Test # 1, Build # 2024-03-16 00:00:00: Bug: says match but timer is stucknothing happens
+Test # 2, Build # 2024-03-16 00:00:00: Bug: Play button doesn’t work
+Test # 3, Build # 2024-03-16 00:00:00: Bug: back button doesn’t work
+Test # 4, Build # 2024-03-16 00:00:00: bug: Timer froze at 66
+Test # 2, Build # 2024-03-20 00:00:00: can’t login
+Test # 3, Build # 2024-03-20 00:00:00: not connecting to server
+Test # 4, Build # 2024-03-19 00:00:00: Bug
+Test # 5, Build # 2024-03-19 00:00:00: Bug
+Test # 4, Build # 2024-03-18 00:00:00: Home icon on top right does nothing
+Test # 0, Build # 2024-03-19 00:00:00: Bug: After clicking the cards when it was not my turn, a black overlay appeared and did not close so I was unable to click the draw card button
+Test # 1, Build # 2024-03-19 00:00:00: Bug: If you click on NFTs section and then attempt to complete the task where you need to add 20 Guardians to the deck but don't have enough cards, you cannot exit out to pick the other section "Free to Use" to be able to add more cards
+Test # 2, Build # 2024-03-19 00:00:00: Bug: There is no way to exit the Deck Builder Tutorial
+Test # 2, Build # 2024-03-13 00:00:00: Switched to another tab during gameplay
+Test # 3, Build # 2024-03-13 00:00:00: Clicked on Adventure Menu
+Test # 0, Build # 2024-03-17 00:00:00: The buttons do not respond in adventure select.
+Test # 1, Build # 2024-03-18 00:00:00: Unable to add a card in a previously created deck in deck builder, after removing it.
+Test # 0, Build # 2024-03-19 00:00:00: Login page stuck at "Login in with email" when you close the tab that opens up after pressing login with email
+Test # 3, Build # 2024-03-19 00:00:00: Pressing the back arrow in adventure does not do anything
+Test # 4, Build # 2024-03-19 00:00:00: Pressing the home icon in adventure does not do anything
+Test # 2, Build # 2024-03-18 00:00:00: Bug: Adventure mode
+Test # 2, Build # 2024-03-18 00:00:00: Bug: Adventure mode
+Test # 1, Build # 2024-03-19 00:00:00: bug: Still cannot exit adventure screen
+Test # 1, Build # 2024-03-19 00:00:00: bug: I got disconnected from the servers
+Test # 2, Build # 2024-03-19 00:00:00: bug: I just clicked adventure and its not letting me play and do anything
+Test # 3, Build # 2024-03-19 00:00:00: bug: I couldnt acces the game, it kept asking for authentification
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # nan, Build # 2024-03-05 00:00:00: The game keeps logging me off. I'm not sure if it's due to inactivity or other reasons, but I would be inactive for only 30 seconds before being logged off.
+Test # nan, Build # 2024-03-13 00:00:00: When I clicked on "Adventure" but wanted to return to the main page right after, neither the back button nor the home button took me back. I had to restart the game.
+Test # nan, Build # 2024-03-13 00:00:00: In Adventure mode, I selected a mission, but I was unable to play even though I had full energy.
+Test # nan, Build # 2024-03-19 00:00:00: Adventure mode is still causing a blockage; nothing works in it, and I have to restart the game
+Test # 4, Build # 2024-03-06 00:00:00: playing tutorial
+Test # 2, Build # 2024-03-19 00:00:00: Bug: Search feature doesn't function properly in tutorial
+Test # 3, Build # 2024-03-19 00:00:00: Bug: The delete (x) button doesn't work anywhere
+Test # 1, Build # 2024-03-19 00:00:00: Bug: Adventure mode does not seem to be working, can enter the UI but once loaded, nothing works
+Test # 2, Build # 2024-03-19 00:00:00: user case: Having complications with signing in, had very long loading
+Test # 3, Build # 2024-03-19 00:00:00: User case: Game would freeze midway and would have to refresh browser
+Test # 1, Build # 2024-03-18 00:00:00: clicking on the adventure to play the adventure mode
+Test # 1, Build # 2024-03-19 00:00:00: bug: At about 10 cards left game got stuck, can not continue
+Test # 2, Build # 2024-03-19 00:00:00: bug: After playing a game, and stating a new one, I cannot make any moves
+Test # 3, Build # 2024-03-19 00:00:00: Going to adventure to play 1-1 for The Kingdom
+Test # 6, Build # 2024-03-18 00:00:00: AI doesn't attack if I never place any cards down
+Test # 8, Build # 2024-03-18 00:00:00: User case: Really should add an AFK timer
+Test # 2, Build # 2024-03-13 00:00:00: Click on adventure to enjoy some game content
+Test # 3, Build # 2024-03-13 00:00:00: Going from Attack phase to end turn.
+Test # 3, Build # 2024-03-17 00:00:00: Game mode adventure
+Test # 1, Build # 2024-03-19 00:00:00: bug: adventure -> home, deck builder, back
+Test # 2, Build # 2024-03-19 00:00:00: bug: tutorials -> complete-> pop-up
+Test # 2, Build # 2024-03-19 00:00:00: Home button does not work
+Test # 3, Build # 2024-03-19 00:00:00: User Case: clicking latest news or latest update does nothing
+Test # 1, Build # 2024-03-08 00:00:00: Bug: Does not log in with email.
+Test # 2, Build # 2024-03-08 00:00:00: Bug: Adventure Mode not working.
+Test # 2, Build # 2024-03-13 00:00:00: bug: Unable to play any levels in Adventure tab
+Test # 3, Build # 2024-03-13 00:00:00: bug: Cannot leave Adventure Select screen
+Test # 1, Build # 2024-03-17 00:00:00: The UI on the Adventure page doesn't work
+Test # 2, Build # 2024-03-17 00:00:00: Card Glitches and doesn't activate
+Test # 1, Build # 2024-03-19 00:00:00: Tutorial Does Not Load
+Test # 3, Build # 2024-03-18 00:00:00: bug: voice line after match victory gets played three times with overlapping audio
+Test # 4, Build # 2024-03-18 00:00:00: bug: game sent me back to log in mid battle
+Test # 2, Build # 2024-03-19 00:00:00: bug: After clicking arena, I can't go back to main page by clicking the back arrow
+Test # 3, Build # 2024-03-19 00:00:00: bug: I can't go to the home page after clicking the home button
+Test # 1, Build # 2024-03-18 00:00:00: Game Blocked when during Deck builder Tutorial
+Test # 2, Build # 2024-03-18 00:00:00: When attempting to play a match it sometimes freezes as if no oppenent was found
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 2, Build # 2024-03-19 00:00:00: Bug: Frozen turn
+Test # 1, Build # 2024-03-17 00:00:00: bug: game uses too much memory to open
+Test # 2, Build # 2024-03-18 00:00:00: bug: game uses too much memory to open
+Test # 3, Build # 2024-03-19 00:00:00: bug: game uses too much memory to open
+Test # 0, Build # 3/192024: When you have pending requests then the block and online buttons aren't very responsive
+Test # 1, Build # 2024-03-19 00:00:00: Buttons aren't responsive when exiting friend screen
+Test # 2, Build # 2024-03-19 00:00:00: Master/Music Volume and Sound FX sliders don't change anything
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 3, Build # 2024-03-05 00:00:00: Playing in arena
+Test # 4, Build # 2024-03-05 00:00:00: Click on either arena, adventure, tutorials, nft shops, settings
+Test # 9, Build # 2024-03-18 00:00:00: Click on Adventure and exit out of it
+Test # 3, Build # 2024-03-14 00:00:00: When in the deck builder tutorial, when you are asked to have 20 red cards, the game may log you out completely
+Test # 1, Build # 2024-03-19 00:00:00: Able to exit the deck building tutorial, got softlocked
+Test # 1, Build # 2024-03-13 00:00:00: bug: The back arrow on the Adventure tab doesn't do anything trapping you on the Adventure screen.
+Test # 4, Build # 2024-03-13 00:00:00: bug: You can skip the "Name Your Deck" step of the deck builder tutorial, but the deck won't save without a name, so the NPC moves onto the next dialogue and you are unable to continue.
+Test # 1, Build # 2024-03-19 00:00:00: Bug: Infinite empty wait loop upon entering arena and connecting to an opponent.
+Test # 0, Build # 2024-03-19 00:00:00: Ex user case: game did not log me in
+Test # 1, Build # 2024-03-13 00:00:00: Click to go back to the main page and nothing happen
+Test # 2, Build # 2024-03-13 00:00:00: Click on deck builder but nothing happen
+Test # 3, Build # 2024-03-14 00:00:00: When I click on player frame nothing happen
+Test # 4, Build # 2024-03-14 00:00:00: When I click on player title nothing happen
+Test # 5, Build # 2024-03-14 00:00:00: Click on player banner and nothing happen
+Test # 4, Build # 2024-03-12 00:00:00: Game
+Test # 2, Build # 2024-03-17 00:00:00: Bug: Gives this error after OAth: TypeError: screen.orientation.lock is not a function
+Test # 3, Build # 2024-03-17 00:00:00: User case: Reached Max capacity
+Test # nan, Build # 2024-03-15 00:00:00: Deck Builder tutorial started but frozen with character art on screen, does not progress
+Test # nan, Build # 2024-03-15 00:00:00: Game froze on main page and kicked me to login screen
+Test # 1, Build # 2024-03-17 00:00:00: Game will still
+ not let user return
+ to home page if
+ clicking on adventure
+ tab
+Test # 3, Build # 2024-03-17 00:00:00: Timer for my player 
+ froze and showed to
+ be active for enemy AI
+ even though it was my
+ turn
+Test # 1, Build # 2024-03-17 00:00:00: user case: log me out after closing the page
+Test # 2, Build # 2024-03-17 00:00:00: user case: heavy volume of players
+Test # 3, Build # 2024-03-17 00:00:00: user case: please try again in 10 minutes
+Test # 4, Build # 2024-03-17 00:00:00: user case: please wait message tool too long
+Test # 2, Build # 2024-03-17 00:00:00: When logging back later in the day there was bandwith issues
+Test # 2, Build # 2024-03-16 00:00:00: Stuck on one of the steps in the deck builder tutorial.
+Test # 3, Build # 2024-03-16 00:00:00: Matchmaking process for Arena took too long.
+Test # 2, Build # 2024-03-16 00:00:00: Stuck on one of the steps in the deck builder tutorial.
+Test # 3, Build # 2024-03-16 00:00:00: Matchmaking process for Arena took too long.
+Test # 1, Build # 2024-03-17 00:00:00: trying to login to email play
+Test # 2, Build # 2024-03-17 00:00:00: Login queue
+Test # 1, Build # Use date you 
+ tested on
+ 3/13/2024: After the first phase I tried clicking on the "Complete the tasks…." and the botton is frozen it does nothing
+Test # 2, Build # Use date you 
+ tested on
+ 3/13/2024: Chrome using almost 1,500 Mb, almost all of my Laptop Memory.
+Test # 3, Build # Use date you 
+ tested on
+ 3/13/2024: tutorial coins don't register correctly.
+Test # 4, Build # Use date you 
+ tested on
+ 3/13/2024: Player switches tabs within the game interface.
+Test # 1, Build # Use date you 
+ tested on
+ 3/17/2024: I noticed that there is no logout botton in the game. Once im signed in how do i logout
+Test # 3, Build # 2024-03-17 00:00:00: In the online players. when trying to add a friend. I see a bunch of players to add but they dont have a name or address. It is just in ID format. which makes it hard to tell which player it is.
+Test # 1, Build # 2024-03-17 00:00:00: bug : game froze when other player activated a card on my turn
+Test # 2, Build # 2024-03-17 00:00:00: user case: having to login everytime the page is closed or refreshed
+Test # 3, Build # 2024-03-17 00:00:00: bug: adventure tab cannot return to home screen
+Test # 2, Build # 2024-03-13 00:00:00: Tutorial phase select during first instruction from Luna leads to blocker
+Test # 1, Build # 2024-03-17 00:00:00: Bug: Adventure Mode Doesn't work
+Test # 1, Build # 2024-03-08 00:00:00: Can't log in due to full servers
+Test # 2, Build # 2024-03-08 00:00:00: Can't leave the tutorial after starting it
+Test # 5, Build # 2024-03-08 00:00:00: Back button to exit Adventure Select doesn’t work
+Test # 4, Build # 2024-03-12 00:00:00: Bug Case: Cannot leave screen and clicks do not register
+Test # 2, Build # 2024-03-13 00:00:00: can’t login
+Test # 3, Build # 2024-03-13 00:00:00: not connecting to server
+Test # 2, Build # 2024-03-09 00:00:00: bug: play buton does not click
+Test # 3, Build # 2024-03-09 00:00:00: bug: none of the buttons on this page work
+Test # 5, Build # 2024-03-09 00:00:00: bug: was winning and then site just refreshed
+Test # 1, Build # Use date you 
+ tested on
+ 3/5/2024: Main Page
+Test # 3, Build # ': if I click one card in the current deck multiple times I wont be able to select it because the card will not select and bug itself
+Test # 1, Build # 2024-03-12 00:00:00: Bug
+Test # 4, Build # 2024-03-12 00:00:00: User Case
+Test # 5, Build # 2024-03-12 00:00:00: Bug
+Test # 3, Build # 2024-03-12 00:00:00: Clicking PLAY does nothing
+Test # 4, Build # 2024-03-12 00:00:00: Bug: The timer stopped counting down and it appeared that the game was frozen, despite everything being clickable
+Test # 6, Build # 2024-03-12 00:00:00: Bug: After surrendering and then quickly going back into the Arena, the game appeared to freeze and was not able to be progressed
+Test # 8, Build # 2024-03-12 00:00:00: Bug: I accidentally clicked on "Adventure" instead of "Arena" and was unable to get out of the Adventure page without a refresh
+Test # 2, Build # 2024-03-12 00:00:00: Returning to Main Page
+Test # 3, Build # 2024-03-12 00:00:00: Playing a match
+Test # 4, Build # 2024-03-12 00:00:00: Logining Via email
+Test # 0, Build # 2024-03-07 00:00:00: The return buttons does not respond after adventure select
+Test # 1, Build # 2024-03-06 00:00:00: Game refused to load - required sign in twice
+Test # 2, Build # 2024-03-10 00:00:00: Adventure select randomly caused the game to freeze
+Test # 0, Build # 2024-03-12 00:00:00: Login page stuck at "Login in with email" when you close the tab that opens up after pressing login with email
+Test # 3, Build # 2024-03-12 00:00:00: Logging in after being kicked due to inactivity leads to being stuck in infinite authentication.
+Test # 1, Build # 2024-03-12 00:00:00: Bug: Adeventure mode
+Test # 2, Build # 2024-03-12 00:00:00: Bug: Skipping Tutorial parts
+Test # 3, Build # 2024-03-12 00:00:00: Bug: Arena
+Test # nan, Build # 2024-03-12 00:00:00: Select Different Pack types to buy in the shop.
+Test # nan, Build # 2024-03-12 00:00:00: Play game from marketplace
+Test # 1, Build # 2024-03-12 00:00:00: bug: adventure page still locks and does not allow for return to menu
+Test # 2, Build # 2024-03-12 00:00:00: bug: login authentication failure despite previous sucessful login
+Test # 5, Build # 2024-03-12 00:00:00: bug: stuck on game screen after lose
+Test # 1, Build # 2024-02-24 00:00:00: ex bug: Clicking on PLAY for the deck tutorial doesn't work.
+Test # 1, Build # 2024-08-03 00:00:00: bug: I just clicked adventure and its not letting me play and do anything
+Test # 2, Build # 2024-08-03 00:00:00: bug: I got disconnected from the servers
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # nan, Build # 2024-03-05 00:00:00: The game keeps logging me off. I'm not sure if it's due to inactivity or other reasons, but I would be inactive for only 30 seconds before being logged off.
+Test # nan, Build # 2024-03-13 00:00:00: When I clicked on "Adventure" but wanted to return to the main page right after, neither the back button nor the home button took me back. I had to restart the game.
+Test # nan, Build # 2024-03-13 00:00:00: In Adventure mode, I selected a mission, but I was unable to play even though I had full energy.
+Test # 1, Build # 2024-03-10 00:00:00: bug: When heading over to the adventure page and clicking on one of the missions, it should show the objective list but it's just completely empty. User case: Objective list is displayed but empty
+Test # 1, Build # 2024-03-12 00:00:00: clicking "adventure"
+Test # 3, Build # 2024-03-12 00:00:00: Activating the "Void trap" card during opponets phase
+Test # 1, Build # 2024-03-10 00:00:00: After entering an arena and choosing a deck, it doesnt let you exit to choose another card.
+Test # 2, Build # 2024-03-11 00:00:00: After entering an arena and choosing a deck, it doesnt let you exit to choose another card.
+Test # 3, Build # 2024-03-12 00:00:00: How to obtain button and related cards buttons do not work
+Test # 4, Build # 2024-03-12 00:00:00: It was my turn to play my character and the game froze and went back to the login page.
+Test # 1, Build # 2024-03-12 00:00:00: bug: Every time I activate a trap card game gets stuck and I can no longer do anything
+Test # nan, Build # 2024-03-12 00:00:00: bug: Game got stuck in arena after matchmaking
+Test # 1, Build # 2024-03-12 00:00:00: bug: After clicking on a mission you wont be able to click on anything else and brick the game.
+Test # 1, Build # 2024-03-12 00:00:00: After staying in the deck builder page for over a minute, it will log you out and you will be unable to log back in until you close the page
+Test # 6, Build # 2024-02-27 00:00:00: Bug: force quite game, back to relogin page
+Test # 7, Build # 2024-02-27 00:00:00: Bug: log in after previous force quite
+Test # 8, Build # 2024-02-27 00:00:00: Bug: in game, AI Player 1 timer stopped
+Test # 9, Build # 2024-02-27 00:00:00: bug: searching for game
+Test # 11, Build # 2024-03-12 00:00:00: Tried to leave adventure screen to go back to menu
+Test # 13, Build # 2024-03-12 00:00:00: Game crashed and sent me back to PLAY GAME 
+ screen
+Test # 1, Build # 2024-03-11 00:00:00: Back Button doesn't work on Adventure Select Screen
+Test # 2, Build # 2024-03-11 00:00:00: Home Button doesn't work on Adventure Select Screen
+Test # 5, Build # 2024-03-11 00:00:00: Play Button on Adventure Select Screen doesn't work
+Test # 9, Build # 2024-03-11 00:00:00: Battles sometimes don't load in Arena
+Test # 3, Build # 2024-03-11 00:00:00: I was in an arena against a bot when I used a void trap I had previously set down before to one shot an enemy guardian that was placed during their main phase.
+Test # 1, Build # 2024-03-10 00:00:00: Started Arena game
+Test # 2, Build # 2024-03-10 00:00:00: Upon game failure had to log back in
+Test # 2, Build # 2024-03-11 00:00:00: bug: settings -> exit button does not work
+Test # 4, Build # 2024-03-11 00:00:00: bug: adventure -> back up button doesn’t work
+Test # 5, Build # 2014-03-11 00:00:00: bug: adventure -> 'deck builder' button doesn’t work
+Test # 6, Build # 2024-03-11 00:00:00: bug: adventure -> 'house' button doesn’t work
+Test # 2, Build # 2024-03-12 00:00:00: Home button does not work
+Test # 3, Build # 2024-03-12 00:00:00: User Case: No way of going to main menu
+Test # nan, Build # 2024-03-05 00:00:00: Every time I click on loading deck 
+ The game kicked me out
+Test # 2, Build # 2024-03-11 00:00:00: Bug: Sometimes it does not let me attack.
+Test # 2, Build # 2024-03-06 00:00:00: Bug: Adventure levels don't work (can't play levels even after clicking play)
+Test # 3, Build # 2024-03-06 00:00:00: Bug: Can't exit out of Adventure tab (back button doesn't work on this tab)
+Test # 1, Build # 2024-03-10 00:00:00: Accessing any of the UI in adventure doesn't work
+Test # 1, Build # 2024-03-10 00:00:00: bug: activating void trap pauses the turn timer
+Test # 3, Build # 2024-03-12 00:00:00: bug: can't play the game. Stuck on a screen playing music
+Test # 4, Build # 2024-03-12 00:00:00: user case: I was in a middle of a battle and I had to login again
+Test # 5, Build # 2024-03-12 00:00:00: user case: After being interuppted in my battle I was told to login. So i did and I'm stuck on the page just waiting listening to the battle music
+Test # 2, Build # 2024-03-11 00:00:00: When doing the Deck Builder Tutorial the Info Cut in blocks the view of button
+Test # 3, Build # 2024-03-11 00:00:00: Following the steps above if you let it time out and log you out the Info Cut-in doesn't disapear and can't click to re-login
+Test # 4, Build # 2024-03-12 00:00:00: When I click on the adventure tab non of the buttons work and I can't go back.
+Test # nan, Build # 2024-03-12 00:00:00: Logged in and kept getting kicked out
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 4, Build # 2024-03-11 00:00:00: Bug: Stuck on adventures screen
+Test # 1, Build # 2024-03-07 00:00:00: bug: game uses too much memory to open
+Test # 2, Build # 2024-03-12 00:00:00: bug: game uses too much memory to open
+Test # 0, Build # 2024-03-11 00:00:00: Stuck on adventure select page
+Test # 1, Build # 2024-03-11 00:00:00: Stuck on authenticating
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 3, Build # 2024-03-05 00:00:00: Playing in arena
+Test # 4, Build # 2024-03-05 00:00:00: Click on either arena, adventure, tutorials, nft shops, settings
+Test # 1, Build # 2024-03-12 00:00:00: Cannot Exit Adventure menu
+Test # 3, Build # 2024-03-11 00:00:00: bug: Starting the deck builder tutorial, you can back out of the tutorial but the limited clicking region remains, locking the game.
+Test # 1, Build # 2024-03-12 00:00:00: Bug: Went into Adventure, none of the UI was working, couldn't go back home or enter any of the locations.
+Test # 2, Build # 2024-03-12 00:00:00: user case: Went into Arena, got into battlefield but nothing else loaded
+Test # 3, Build # 2024-03-12 00:00:00: User case: Opponent went and instantly crashed
+Test # 2, Build # 2024-03-12 00:00:00: Adventure Select: Almost all of the buttons have no function, missions are not selectable. Cannot exit adventure select.
+Test # 6, Build # 2024-03-12 00:00:00: Arena AI Player: Activating trap card freezes game.
+Test # 1, Build # 03/11/2024 Mobile: Stuck on AI turn(timer stuck at 71)
+Test # 1, Build # 2024-03-07 00:00:00: Unable to escape Adventure mode
+Test # 1, Build # 2024-03-02 00:00:00: playing arena
+Test # 1, Build # 2024-03-10 00:00:00: Bug: I clicked on adventure mode and the screen got stuck on that page. I had to close the entire EG tab to reenter the game
+Test # 4, Build # 2024-03-01 00:00:00: No preset decks
+Test # 5, Build # 2024-03-01 00:00:00: Deck builder A-Z sort doesn't work
+Test # 6, Build # 2024-03-10 00:00:00: Adventure select not working
+Test # 7, Build # 2024-03-10 00:00:00: Settings opens behind news window
+Test # 2, Build # 2024-03-09 00:00:00: Adventure's UI doesn't work
+Test # 1, Build # 2024-03-08 00:00:00: Stuck on Authentication
+Test # 2, Build # 2024-03-08 00:00:00: high volume of users
+Test # 3, Build # 2024-03-08 00:00:00: log in loading
+Test # 1, Build # 2024-03-08 00:00:00: Stuck on Authentication
+Test # 2, Build # 2024-03-08 00:00:00: high volume of users
+Test # 3, Build # 2024-03-08 00:00:00: log in loading
+Test # 1, Build # Use date you 
+ tested on
+  3/11/2024: In player profile view. The Player Frame does not show anything on click
+Test # 2, Build # 2025-03-11 00:00:00: i noticed while in setting menu that the X button on top right does not exit out.
+Test # 3, Build # 2024-03-11 00:00:00: In player profile view. The Player Title does not show anything on click
+Test # 4, Build # 2024-03-11 00:00:00: in player profile view. The player Banner button does nothing
+Test # 2, Build # 2024-03-10 00:00:00: bug
+Test # 4, Build # 2024-03-10 00:00:00: bug
+Test # nan, Build # 2024-03-09 00:00:00: bug: cannot play deck building tutoria
+Test # nan, Build # 2024-03-09 00:00:00: ex bug: Played against AI doesnt respond
+Test # nan, Build # 2024-03-09 00:00:00: bug: cannot return to home screen from adventure tab
+Test # 1, Build # 2024-03-06 00:00:00: Game would not let
+ me leave the 
+ adventure select
+ page
+Test # 4, Build # 2024-03-06 00:00:00: Game will not let 
+ one of the players 
+ perform operations 
+ (draw,battle, main phase, 
+ etc.) if you leave the 
+ tab during a turn change
+ Has done both for user 
+ and AI
+Test # 5, Build # 2024-03-06 00:00:00: If for some reason you
+ attempt to draw a card 
+ during the opponent 
+ turn, the opponent cannot
+ procede
+Test # 1, Build # 2024-03-07 00:00:00: Page not working properly
+Test # 3, Build # 2024-02-27 00:00:00: Once user is on the Main Page screen, user clicks on the round Friends button on the right. User sees a friends menu sliding form the right. User then clicks "Add Friend", a screen appears, the background becomes blurry. User then clicks on the X button to close the screen. The pop-up disappers but the Main Page screen remains blurry for the user, nothing is clickable. User has to reload the game and log in again. See image file attached to the submission.
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 1, Build # 2024-02-26 00:00:00: Game board doesn't display on Chrome web browser
+Test # 2, Build # 2024-02-26 00:00:00: Game board doesn't display on Safari web browser
+Test # 3, Build # 2024-02-26 00:00:00: Play button for Deck Build Tutorial not working
+Test # nan, Build # 2024-02-28 00:00:00: Navigating to friends list then exiting stops at a blurred screen that can't be clicked on
+Test # 4, Build # 2024-02-21 00:00:00: Cannot access the deck building tutorial
+Test # 2, Build # 2024-02-25 00:00:00: bug: It does not allow the user to do the deck builder tutorial, then if you re-do the Gameplay  tutorial it will show that the deck builder tutorial is complete.  user case: non-responsive to click
+Test # 1, Build # 2024-02-27 00:00:00: bug: Play botton does not work
+Test # 2, Build # 2024-02-22 00:00:00: Clicking on the Add Friends button and going back to the Home Page causes the Home Page to be entirely unclickable, requiring a re-login
+Test # 0, Build # 2024-02-21 00:00:00: Coins are offered again after completing the tutorial
+Test # 1, Build # 2024-02-27 00:00:00: After completeing the tutorial and going back to the login screen it got stuck on login with email
+Test # 2, Build # 2024-02-27 00:00:00: After completeing the tutorial and going back to the login screen it got stuck on after authenication to "connecting to server"
+Test # 4, Build # 2024-02-27 00:00:00: Gameplay Tutorial
+Test # 1, Build # 2024-02-27 00:00:00: One of the bugs I found in the game is while doing the tutorial for gameplay if I click in one card and move to another instruction inside the game, the current steps does not update correctly
+Test # 3, Build # 2024-02-27 00:00:00: One of the bugs I found in the game is that if I try to reload the page the game would crash and disconnect me from the servers, as well the loading connecting to servers appear again like the one from test #2
+Test # 6, Build # 2024-02-22 00:00:00: User Case
+Test # 3, Build # 2024-02-22 00:00:00: Game starts in endless loop
+Test # 8, Build # 2024-02-27 00:00:00: Refreshing does not fix frozen state
+Test # 1, Build # 2024-02-21 00:00:00: Bug: Deck BuilderTutorial
+Test # 2, Build # 2024-02-21 00:00:00: Bug: Normal Tutorial practrice
+Test # 1, Build # 2024-02-24 00:00:00: Clicking the Deck Builder Tutorial doesn't work.
+Test # 2, Build # 2024-02-24 00:00:00: Clicking into the Card Deck Menu
+Test # 8, Build # 2024-02-24 00:00:00: Starts all over with authentication
+Test # 14, Build # 2024-02-24 00:00:00: battle mode not activated
+Test # 15, Build # 2024-02-24 00:00:00: timer stuck
+Test # 16, Build # 2024-02-27 00:00:00: Page frozen
+Test # 17, Build # 2024-02-27 00:00:00: Moved to new tab, came back and game logged me out
+Test # 18, Build # 2024-02-27 00:00:00: Still connecting to server after several minutes after authentication
+Test # 1, Build # 2024-02-24 00:00:00: Clicking on PLAY for the deck tutorial doesn't work.
+Test # 1, Build # 2024-02-25 00:00:00: bug: clicking tutorial deck builder is not letting me access the tutorial
+Test # 2, Build # 2024-02-25 00:00:00: bug: Deck Tutorial appears complete
+Test # 4, Build # 2024-02-25 00:00:00: bug: the game froze but the music continues
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-02-27 00:00:00: User: Latency indicator blocking GUI elements
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match
+Test # 4, Build # 2024-02-27 00:00:00: Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match
+Test # 4, Build # 2024-02-27 00:00:00: Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out
+Test # 3, Build # 2024-02-25 00:00:00: bug: whenever i try to flip the "void trap" card the game stops working (i still hear the game and see the game background effects moving, but timer stops.)
+Test # 4, Build # 2024-02-27 00:00:00: bug: unable to connect to server after doing the authorization
+Test # 2, Build # 2024-02-27 00:00:00: Clicking play does not start tutorial
+Test # 3, Build # 2024-02-22 00:00:00: bug: could not click on any buttons at the beginning of training mode
+Test # 6, Build # 2024-02-24 00:00:00: bug: in training mode, selecting rain of arrows during enemy turn pauses timer indefinitely and stops AI from acting
+Test # 7, Build # 2024-02-26 00:00:00: bug: battle won't start in training mode
+Test # 2, Build # 2024-02-27 00:00:00: Stuck on Connecting to Server
+Test # 3, Build # 2024-02-27 00:00:00: Tutorial battle
+Test # 5, Build # 2024-02-27 00:00:00: Launch Deck Builder Tutorial
+Test # 2, Build # 2024-02-21 00:00:00: I actvatied Rain of Arrows, when a prompt came up for it during a practice battle
+Test # 5, Build # 2024-02-27 00:00:00: beginning next tutorial after the first is completed
+Test # 0, Build # Use date you 
+tested on
+2/25/2024: Bug: I am on Mac OS and when I click on “New Player” it takes me to a tutorial and it says “To begin the game, draw a new card.” And it does not let me draw any cards. The browser I am playing on is Chrome.
+Test # 1, Build # 2024-02-25 00:00:00: User Case I tried scrolling left and right when
+Test # 2, Build # 2024-02-27 00:00:00: user case: after using email to login, return back to the original page, it shows "connectting to the server", and never goes to the next step
+Test # 2, Build # 2024-02-21 00:00:00: Unable to access deck builder tutorial.
+Test # 4, Build # 2024-02-21 00:00:00: Tutorial 1 - Clicking on the fighter card brings up a window to activate or retire the card, causes tutorial cutscene to lock.
+Test # 5, Build # 2024-02-21 00:00:00: Tutorial 1 - Retired all attack cards during turn, between tutorial scenes.
+Test # 7, Build # 2024-02-21 00:00:00: Adventure, AI Battle – During enemy turn, I spammed clicked the phase button and the AI is unable to react. Timer also stopped counting down.
+Test # 9, Build # 2024-02-25 00:00:00: Adventure, AI Battle – During the enemy phase, rapidly clicking the hire button on one of my cards causes enemy AI to stall, the turn to never be player turn, or cause the Timer during the enemy phase to freeze.
+Test # 10, Build # 2024-02-25 00:00:00: Arena – After matching with another player the game never starts, the Exit Tutorial button is present, so this could be related to the tutorial testing I was doing beforehand. Edit: upon logging out and logging back in, the error persists. I am unable to play with human players.
+Test # 3, Build # 2024-02-26 00:00:00: Blurry and unresponsive main page
+Test # 6, Build # 2024-02-26 00:00:00: Tutorial could not be completed
+Test # 2, Build # 2024-02-27 00:00:00: Bug: Opening friends list and then open "Add Friends" and then closing both menus
+Test # 1, Build # 2024-02-25 00:00:00: Magic Authentication link times out and doesn’t recover
+Test # 2, Build # 2024-02-26 00:00:00: Literally the same issue as before, can't login magic authentication keeps timing out before it can authenticate me
+Test # 2, Build # 2024-02-21 00:00:00: bug: Clicking "Tutorials" -> Deck Builder Tutorial does nothing
+Test # 6, Build # 2024-02-27 00:00:00: Bug: force quite game, back to relogin page
+Test # 7, Build # 2024-02-27 00:00:00: Bug: log in after previous force quite
+Test # 8, Build # 2024-02-27 00:00:00: Bug: in game, AI Player 1 timer stopped
+Test # 9, Build # 2024-02-27 00:00:00: bug: searching for game
+Test # 1, Build # 2024-02-23 00:00:00: Card cannot be clicked on. Prevented by an overlay
+Test # 3, Build # 2024-02-27 00:00:00: After user is kicked from inactivity, user can no longer log back in
+Test # 1, Build # 2024-02-21 00:00:00: When exiting out of the friends menu, the game stays blurred and doesn't allow me to proceed to the rest of the game
+Test # 1, Build # 2024-02-20 00:00:00: bug:The deck builder tutorial button did not work.
+Test # 2, Build # 2024-02-27 00:00:00: user case: extreamly high latency on windows 11 pc, running on chrome browser. Specs: i9900kf, 2070 super, 32gb ram ddr4, m.2 ssd. Hardwired Lan connection to internet
+Test # 2, Build # 2024-02-23 00:00:00: When playing against AI in training mode, AI freezes after player selects a card to activate on the AI’s turn
+Test # 3, Build # 2024-02-27 00:00:00: When attempting to play an Arena Match or a training match, I am logged out as soon as the arena loads
+Test # 5, Build # 2024-02-28 00:00:00: ex bug: clicking deck tutorial won't let me play
+Test # 6, Build # 2024-02-28 00:00:00: ex bug: clicking deck tutorial exits out or the tutorial side bar
+Test # 0, Build # 2024-02-26 00:00:00: Bug: The E-Axe Void Mode overlay became stuck after double clickg the "Gargoyle" card and clicking "Activate". When it was time to enhance the stats of the Guardian using action cards, the card was not selectable since the E-Axe Void Mode overlay was in the way
+Test # 1, Build # 2024-02-26 00:00:00: Bug: When aggressively clicking around during the phase selector for Main Phase 2, the highlight box got stuck and the phase selector overlay disappeared
+Test # 5, Build # 2024-02-26 00:00:00: Bug: You can click the phase selector before the tutorial instructs you to draw a new card to begin gameplay. When you do that, the phase selector overlay gets stuck and prevents you from clicking to draw the card
+Test # 15, Build # 2024-02-27 00:00:00: Bug: After closing the "Add Friends", the background stays blurry and prevents further navigation of the website
+Test # 23, Build # 2024-02-27 00:00:00: Bug: I was able to "Hire" and "Set" every card by the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress
+Test # 24, Build # 2024-02-27 00:00:00: Bug: I was able click "Activate" on the "Cursed Jian" card before the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress since the "Cursed Jian" overlay was covering the card I was supposed to "Set" to progress the tutorial
+Test # 3, Build # 2024-02-27 00:00:00: When I got disconnected while doing the first gameplay tutorial, I got back on 20 minutes later and it said I had finished it. I clicked the play and it still worked and I was able to do the tutorial but doing the tutorial made the game think I had completed the deck builder tutorial as well. Now when I try to do the deck builder tutorial nothing happens when I click play.
+Test # 3, Build # 2024-02-27 00:00:00: bug: randomly disconnected
+Test # 4, Build # 2024-02-27 00:00:00: bug: stuck in authentication screen after logout
+Test # 5, Build # 2024-02-27 00:00:00: bug: cannot connect to server
+Test # 2, Build # 2024-02-26 00:00:00: Bug: Locked on the Tutorial
+Test # 4, Build # 2024-02-26 00:00:00: Bug: Timer still counts down during tutorial instructional pop-ups, auto logs you out after
+Test # 5, Build # 2024-02-26 00:00:00: Bug: In the Tutorial when prompted to use Cursed JIAN, Earth Cocktail, etc you can double click the card quickly and be unable to actually use the cards on your guardians
+Test # 2, Build # 2024-02-27 00:00:00: Game logged out user during gameplay tutorial
+Test # 7, Build # 2024-02-27 00:00:00: bug: A blur layer added when clicking "Add Friends" never goes away.
+Test # 15, Build # 2024-02-27 00:00:00: bug: During the tutorial, the blue clickable region allows interacting with outside elements which can block progression. By swishing the mouse back and forth quickly over the barrier of the blue region the neighboring card can become selected. Then, the "activate" button is within the clickable blue region which can cause a popup menu that blocks progression and the buttons to interact with it are outside of the blue region which is still the original card the tutorial intended for you to click.
+Test # 1, Build # 2024-02-27 00:00:00: Logging in after being kicked due to inactivity leads to being stuck in infinite authentication.
+Test # 2, Build # 2024-02-27 00:00:00: Login page stuck at "Login in with email" when you close the  tab that opens up after pressing login with email
+Test # 1, Build # 02/27/2024 Mobile: Stuck In Deck Builder Tutorial
+Test # 2, Build # 02/27/2024 Mobile: Stuck at Login with email screen
+Test # 3, Build # 2024-02-26 00:00:00: After clicking friends, add friends, then exiting the add friends tab, I cant click anyhting in the main menu, its all blurred out
+Test # 4, Build # 2024-02-26 00:00:00: After creating my deck and selecting it, i tried going into the arena, and as the game loaded it just kicked me out to the sign in page
+Test # 1, Build # 2024-02-20 00:00:00: Would not let me select guardian to activate 
+ abilities
+Test # 5, Build # 2024-02-20 00:00:00: Deck builder tutorial does not launch when clicked
+Test # 7, Build # 2024-02-20 00:00:00: Timer froze when playing AI match
+Test # 9, Build # 2024-02-25 00:00:00: Stuck on endless loop on first turn of game during 
+ selection phase. Just repeated pop ups of 
+ "Selection Phase"
+Test # 2, Build # 2024-02-25 00:00:00: Loading tutorials
+Test # 1, Build # 2024-02-25 00:00:00: Cant proceed in tutorial, certain actions
+ get blocked on half monitor screen
+Test # 2, Build # 2024-02-25 00:00:00: Click on deck builder tutorial and it 
+ wont proceed
+Test # 5, Build # 2024-02-25 00:00:00: Exiting addd friend menu doesn't exit
+Test # 10, Build # 2024-02-25 00:00:00: "How to Obtain" button doesn't work
+Test # nan, Build # 2024-02-25 00:00:00: "Related card" button doesn't work
+Test # 1, Build # 2024-02-23 00:00:00: Clicking on tutorial elements before being prompted to do leads to softlock
+Test # 1, Build # 2024-02-24 00:00:00: Doesn’t stay logged in.
+Test # 2, Build # 2024-02-24 00:00:00: Friend's list has no back option.
+Test # 3, Build # 2024-02-24 00:00:00: inaccessible deck builder tutorial
+Test # 5, Build # 2024-02-24 00:00:00: "set" cards with "flip" effect, when activated during enemy turn, stops match
+Test # 3, Build # 2024-02-24 00:00:00: inaccessible deck builder tutorial
+Test # 5, Build # 2024-02-24 00:00:00: "set" cards with "flip" effect, when activated during enemy turn, stops match
+Test # 1, Build # 2024-02-25 00:00:00: user case: changing turns
+Test # 2, Build # 2024-02-25 00:00:00: bug:after loggin in with email, game closed after 30 seconds of no movement and was unable to login again without closing browser
+Test # 1, Build # 2024-02-25 00:00:00: Deck builder tutorial button not doing anything.
+Test # 1, Build # 2024-02-25 00:00:00: bug: After dragging out the screen, the game no longer allows users to select highlighted cards.
+Test # 1, Build # 2024-02-24 00:00:00: Deck Builder button tutorial not clickable
+Test # 2, Build # 2024-02-25 00:00:00: AI Froze On Draw
+Test # 1, Build # Use date you 
+ tested on
+ 2/25/2024: After the first phase I tried clicking on the "Complete the tasks…." and the botton is frozen it does nothing
+Test # 2, Build # Use date you 
+ tested on
+ 2/25/2025: Chomre using almost 1,500 Mb, almost all of my Laptop Memory.
+Test # 2, Build # 2024-02-25 00:00:00: Bug: Link is block
+Test # 1, Build # 2024-02-25 00:00:00: Trying to play/test the game
+Test # 2, Build # 2024-02-25 00:00:00: Bug: Deck Builder Tutorial does not take me to the tutorial
+Test # 5, Build # 2024-02-25 00:00:00: Bug: I tried playing the against AI Opp. in the Adventure mode, and the whole thing bugged out
+Test # 1, Build # 2024-02-24 00:00:00: bug : build deck tutorial play button does not work
+Test # 2, Build # 2024-02-24 00:00:00: user case: having to relog every time the page is closed or refreshed
+Test # 1, Build # 2024-02-25 00:00:00: A frozen screen
+Test # 2, Build # 2024-02-25 00:00:00: Logged out
+Test # 1, Build # 2024-02-25 00:00:00: A frozen screen
+Test # 2, Build # 2024-02-25 00:00:00: Logged out
+Test # nan, Build # 2024-02-25 00:00:00: Clicking on the deck builder tutorial does not start it
+Test # 2, Build # 2024-02-24 00:00:00: Selecting the Build Deck didn't do anything after complete the first gameplay tutorial
+Test # 2, Build # 2024-02-22 00:00:00: Adding card to deck adds it.
+Test # 1, Build # 2024-07-10 00:00:00: Clicking Player Frame/ Player Title/ Player Banner doesn't work. It simply doesn't do anything.
+Test # 2, Build # 2024-07-10 00:00:00: For pop-up of Anime Ultraman, the latest news and latest update button doesn't work.
+Test # 3, Build # 2024-07-10 00:00:00: There is no way to exit the ongoing tutorial. 
+Test # 1, Build # 2024-10-08 00:00:00: Login page doesnt appear
+Test # nan, Build # 2024-10-08 00:00:00: Tutorial tells me to switch to Main Phase 2, doing so stops the game
+Test # nan, Build # 2024-10-08 00:00:00: Extremely High Latency <1000
+Test # nan, Build # 2024-10-08 00:00:00: Couldnt get the tutorial finished in less than 15 minutes
+Test # 1, Build # 2024-10-06 00:00:00: In Game, Pop up message time is too short because of that we cant read it in first time.
+Test # 2, Build # 2024-10-06 00:00:00: In arena, we cant controll the music.
+Test # 3, Build # 2024-10-06 00:00:00: In edit profile, we can't change player frame, title, banner.
+Test # 1, Build # 2024-07-10 00:00:00: Game does not restart unless the page is refreshed
+Test # 2, Build # 2024-07-10 00:00:00: Reporting the issue regarding the player frame, title, and banner is not working properly.
+Test # 3, Build # 2024-08-10 00:00:00: Latest News and Latest Update button is not working in this game. 
+As a result, the latest news and updates cannot be accessed
+or displayed within the game interface.
+Test # 2, Build # 2024-10-02 00:00:00: bug: stuck on Loading decks… Please Wait
+Test # 2, Build # 2024-10-02 00:00:00: bug: stuck on Loading decks… Please Wait
+Test # 1, Build # 2024-10-09 00:00:00: If you navigate to the adventure tab, you can't go back :(
+Test # 2, Build # 2024-10-08 00:00:00: bug: timer isn't going down due to high latency
+Test # 1, Build # 2024-10-08 00:00:00: Cannot click on deck builder after being prompted to do so
+Test # 2, Build # 2024-10-08 00:00:00: Cannot exit out of adventure
+Test # 3, Build # 2024-10-08 00:00:00: Clicking arena while in deck building tutorial with no deck built
+Test # nan, Build # 2024-10-06 00:00:00: tried to update profile but it's not working 
+Test # nan, Build # 2024-10-08 00:00:00: latest update and lateness new button is not working
+Test # nan, Build # 2024-10-08 00:00:00: I've tried to click the sound button but it's not working on my side
+Test # 3, Build # 2024-10-04 00:00:00: Glitch: was kicked back to login during game
+user case: screen changed to login 
+Test # 3, Build # 2024-02-08 00:00:00: clicking on cursed jian at the beginning makes game freeze
+Test # 5, Build # 2024-02-08 00:00:00: the game was stuck when Luna told me to attack the last guardian
+Test # 1, Build # 2024-10-08 00:00:00: bug: infinite loading screen on connecting/scanning wallet
+Test # 1, Build # 2024-10-07 00:00:00: user case: resizing screen prevents block certain functions/buttons.
+Test # 2, Build # 2024-10-08 00:00:00: bug: game froze after Player 1 "Card Passive Effect Activated - Fire Damage#Select One enemy Guardian to Deal 50 Fire Damage"
+Test # 1, Build # 2024-10-03 00:00:00: 
+When you Start the "Deck Building Tutorial," Luna is Blocking the Deck Builder Option, Making it Hard to See/Find.
+
+Test # 1, Build # 
+10/6/2024: User Case: Going to "Tutorials" Main Page -> "Play" Button" from "Deck Builder Tutorial", After that unable to continue because you cannot click on "Deck Builder" on main page
+Test # 2, Build # 2024-10-08 00:00:00: Bug: Buttons on "Adventure" are not working
+Test # 1, Build # 2024-10-06 00:00:00: Profile doesn't change in Arena
+Test # 2, Build # 2024-10-06 00:00:00: Win/Lose doen't change in the profile
+Test # 3, Build # 2024-10-06 00:00:00: Stuck in starting and middle of Arena mode
+Test # 1, Build # 2024-10-08 00:00:00: Bug: Phase Change UI freezes tutorial
+Test # 1, Build # 2024-10-06 00:00:00: Bug: Game froze during opponent's turn
+Test # 3, Build # 2024-10-06 00:00:00: Bug: Game froze during opponent's turn
+Test # 1, Build # 2024-10-08 00:00:00: Once you add 20 Gaurdians any more gaurdians added cannot be removed, so if you fill your 30 alloted slotes with just  gaurdians you wont be able to remove them to add reaction and action cards to complete the tutorial
+Test # 6, Build # 2024-10-08 00:00:00: bug: doesn't let me click the X button in the build your deck tutorial on the step when needed to add atleast 20 guradians
+Test # 7, Build # 2024-10-08 00:00:00: user case: naming your deck 
+Test # 1, Build # 2024-10-08 00:00:00: clicking on camera setting doesn't work
+Test # 3, Build # 2024-10-07 00:00:00: Clicked on the 'Adventure' button in the
+ main menu and then the back arrow
+button and home button did nothing.
+Test # 1, Build # 2024-10-06 00:00:00: When reaching towards "Skale" connect option via this route. "Wallet Login" -> "MetaMask" -> "Skale". It seems the mobile option of using WalletConnect is not operational at this time
+Test # 2, Build # 2024-10-06 00:00:00: After connecting through WalletConnect there was no indication or process option given to move forward to gameplay. I tried refreshing and connecting again however there was no option for me to start any gameplay.
+Test # nan, Build # 2024-10-06 00:00:00: Activating set card in the Tutorial,  but I misslick and tried to use a card in hand
+Test # nan, Build # 2024-10-08 00:00:00: Tried to draw a card
+Test # nan, Build # 2024-10-08 00:00:00: Going to main phase during arena
+Test # nan, Build # 2024-10-08 00:00:00: Tried to play a game
+Test # 1, Build # 2024-10-07 00:00:00: ex bug: continue after tutorial steps.          ex user case: does not allow continuation and froze over different layers 
+Test # 2, Build # 2024-10-06 00:00:00: End turn and await opponent's next move
+Test # 1, Build # 2024-10-08 00:00:00: UI interaction following tutorial prompts non responsive or no clear indication of response
+Test # 5, Build # 2024-10-09 00:00:00: Cannot exit standby phase to go to main phase 1
+Test # 6, Build # 2024-10-09 00:00:00: Game progress halts after certain amount of time spent in a single match
+Test # 2, Build # 2024-10-07 00:00:00: when testing tutorial it just didn't let me click when attacking 
+Test # 3, Build # 2024-10-07 00:00:00: nothing happened when clicking on how to obtain/or related cards
+Test # 3, Build # 2024-10-08 00:00:00: Buttons to go back from Adventure and go home do not work in Adventure
+Test # 7, Build # 2024-10-08 00:00:00: Copying and pasting a million words locks freezes the game. Copy/Paste Used: https://www.damienelliott.com/1-million-words-ready-to-copy-and-paste-lorem-ipsum/
+Test # 10, Build # 2024-10-08 00:00:00: Copy & Paste million words into text area of friends tab freezes game
+Test # 1, Build # Use date you 
+tested on 10/6/2024: I accidentally logged in using "Trust" crypto app instead of MetaMask. It didn’t let me go back and login using MetaMask. I had to clear history and do it again 
+Test # 4, Build # Use date you 
+tested on
+10/6/2024: Tried to enter the campagin, the chapter didn't work. However, my issue is the game didn't let me go back and forth, not even the home button worked
+Test # 5, Build # Use date you 
+tested on
+10/6/2024: I clicked on email login and it didn't work. However, the screen got stuck on email login….
+Test # 3, Build # 2024-10-15 00:00:00: Game: It crashed on Adventure select
+Test # 1, Build # 2024-10-14 00:00:00: Feedback could have been integrated into the game itself.
+Test # 2, Build # 2024-10-14 00:00:00: Master volume and Music volume: While playing game music was not decreasing even after scrolling it to lowest as possible
+Test # 3, Build # 2024-10-14 00:00:00: Changing the player icon is slower than expected.
+Test # 4, Build # 2024-10-14 00:00:00: For pop-up of Anime Ultraman, the 'Read more' button doesn't work.
+Test # 2, Build # 2024-10-15 00:00:00: Extremely High Latency <1000
+Test # 2, Build # 2024-10-14 00:00:00: User case: Latency overlap to player name.
+Test # 3, Build # 2024-10-14 00:00:00: User case: In profile, win/losses is not updating.
+Test # 2, Build # 2024-10-13 00:00:00: In this game I can't show online players.
+Test # 3, Build # 2024-10-14 00:00:00: "Explore" button is not working In card shop home page 
+Test # 4, Build # 2024-10-14 00:00:00: "Recently Sold" cards button is not working and soldded cards list not show
+Test # 1, Build # 2024-10-11 00:00:00: ex user case: Game on my gaming desktop makes my CPU run at 100% at game is unplayable. CPU: AMD Ryzen 7 5800X
+Test # nan, Build # 2024-10-15 00:00:00: UI for clicking return does not scale to the resolution of monitor ( i have 3440x1440 33inches)
+Test # 2, Build # 2024-10-15 00:00:00: Once you hit adventure, you still can't go back to the main page ;(
+Test # 4, Build # 2024-10-15 00:00:00: user case: explain the context of each phase under the announcement or in the middle of that phase
+Test # 3, Build # 2024-10-15 00:00:00: The game crashed when trying to enter "Adventure" mode from the main menu.
+Test # nan, Build # 2024-10-15 00:00:00: tried to update profile but it's not working 
+Test # nan, Build # 2024-10-15 00:00:00: I've tried to click the sound button but it's not working on my side
+Test # nan, Build # 2024-10-15 00:00:00: latest update and lateness new button is not working
+Test # 1, Build # 
+10/15/2024: Bug: cannot even start to play "First Game Play Tutorial" because of game breaking 
+Test # 4, Build # 14/10/24: Gameplay
+Test # 1, Build # 2024-10-15 00:00:00: After killing the last defender of the opponent, game froze, I had no more moves left, but it would not let me end my battle phase.  Even tho I had used all my attackers, it gave the animation of being able to attack the opponent directly, but would not let me do it. Game was completely frozen. 
+Test # 3, Build # 2024-10-15 00:00:00: For starting second. During th3 opponen's main phase, the option to hire a gaurdian is available. If clicked it bugs out and it automaticly skips your turn every time, automatically draws cards for you then skips the rest of your turn. The attaking AI does not battle, but still hires charecters, and lets the time run out.
+Test # 5, Build # 2024-10-15 00:00:00: After losing a match game got stuck, no ending screen.
+Test # 1, Build # 2024-10-15 00:00:00: bug: settings exit button
+Test # 1, Build # 2024-10-08 00:00:00: clicking on camera setting doesn't work
+Test # 2, Build # 2024-10-15 00:00:00: leaderboard has bug
+Test # 3, Build # 2024-10-12 00:00:00: Game timer froze and the game would 
+not advance no matter if I tried to 
+advance to the next phase. When it 
+happened I have the graveyard open and 
+was clicking on my cards during battle
+ phase. 
+Test # nan, Build # 2024-10-15 00:00:00: In tutorial, after strengthening my guaridan's stats,  I transition from battle to end turn.
+Test # nan, Build # 2024-10-15 00:00:00: Can't activate cards in other phases besides main ones
+Test # 2, Build # 2024-10-14 00:00:00: Clicking the home button in the Adventure menu (on the Kingdom) does not return the user to the main menu.
+Test # 5, Build # 2024-10-15 00:00:00: At the start of the game the game does not transition from standby to main phase #1 automatically. 
+Test # 1, Build # 2024-10-15 00:00:00: Closed to sign into metamask and wouldn't reopen
+Test # 3, Build # 2024-10-15 00:00:00: end about to end it froze
+Test # 1, Build # 2024-10-14 00:00:00: When trying to log in using Metamask, the wallet connection fails if not already logged in.
+Test # 3, Build # 2024-10-14 00:00:00: The Deck Builder doesn’t allow saving a newly created deck.
+Test # 4, Build # 2024-10-14 00:00:00: When attempting to join an arena match, the matchmaking queue gets stuck at “Searching for opponent”.
+Test # 3, Build # nan: Verify home button functionality
+Test # 4, Build # nan: Verify Play button functionality
+Test # 2, Build # 2024-10-15 00:00:00: Cant go back after pressing adventure
+Test # 2, Build # 2024-03-19 00:00:00: User clicked on the Adventures button from the main menu options.
+Test # 3, Build # 2024-03-19 00:00:00: User clicked on the Adventures button from the main menu options. Once there, user clicks on one of the level selection bubbles on the map to start the adventure. It opens another sliding screen from the right.
+Test # 1, Build # 2024-03-20 00:00:00: Bug Case: Cannot leave screen and clicks do not register
+Test # 1, Build # 2024-03-16 00:00:00: Bug: says match but timer is stucknothing happens
+Test # 2, Build # 2024-03-16 00:00:00: Bug: Play button doesn’t work
+Test # 3, Build # 2024-03-16 00:00:00: Bug: back button doesn’t work
+Test # 4, Build # 2024-03-16 00:00:00: bug: Timer froze at 66
+Test # 2, Build # 2024-03-20 00:00:00: can’t login
+Test # 3, Build # 2024-03-20 00:00:00: not connecting to server
+Test # 4, Build # 2024-03-19 00:00:00: Bug
+Test # 5, Build # 2024-03-19 00:00:00: Bug
+Test # 4, Build # 2024-03-18 00:00:00: Home icon on top right does nothing
+Test # 0, Build # 2024-03-19 00:00:00: Bug: After clicking the cards when it was not my turn, a black overlay appeared and did not close so I was unable to click the draw card button
+Test # 1, Build # 2024-03-19 00:00:00: Bug: If you click on NFTs section and then attempt to complete the task where you need to add 20 Guardians to the deck but don't have enough cards, you cannot exit out to pick the other section "Free to Use" to be able to add more cards
+Test # 2, Build # 2024-03-19 00:00:00: Bug: There is no way to exit the Deck Builder Tutorial
+Test # 2, Build # 2024-03-13 00:00:00: Switched to another tab during gameplay
+Test # 3, Build # 2024-03-13 00:00:00: Clicked on Adventure Menu
+Test # 0, Build # 2024-03-17 00:00:00: The buttons do not respond in adventure select.
+Test # 1, Build # 2024-03-18 00:00:00: Unable to add a card in a previously created deck in deck builder, after removing it.
+Test # 0, Build # 2024-03-19 00:00:00: Login page stuck at "Login in with email" when you close the tab that opens up after pressing login with email
+Test # 3, Build # 2024-03-19 00:00:00: Pressing the back arrow in adventure does not do anything
+Test # 4, Build # 2024-03-19 00:00:00: Pressing the home icon in adventure does not do anything
+Test # 2, Build # 2024-03-18 00:00:00: Bug: Adventure mode
+Test # 2, Build # 2024-03-18 00:00:00: Bug: Adventure mode
+Test # 1, Build # 2024-03-19 00:00:00: bug: Still cannot exit adventure screen
+Test # 1, Build # 2024-03-19 00:00:00: bug: I got disconnected from the servers
+Test # 2, Build # 2024-03-19 00:00:00: bug: I just clicked adventure and its not letting me play and do anything
+Test # 3, Build # 2024-03-19 00:00:00: bug: I couldnt acces the game, it kept asking for authentification
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # nan, Build # 2024-03-05 00:00:00: The game keeps logging me off. I'm not sure if it's due to inactivity or other reasons, but I would be inactive for only 30 seconds before being logged off.
+Test # nan, Build # 2024-03-13 00:00:00: When I clicked on "Adventure" but wanted to return to the main page right after, neither the back button nor the home button took me back. I had to restart the game.
+Test # nan, Build # 2024-03-13 00:00:00: In Adventure mode, I selected a mission, but I was unable to play even though I had full energy.
+Test # nan, Build # 2024-03-19 00:00:00: Adventure mode is still causing a blockage; nothing works in it, and I have to restart the game
+Test # 4, Build # 2024-03-06 00:00:00: playing tutorial
+Test # 2, Build # 2024-03-19 00:00:00: Bug: Search feature doesn't function properly in tutorial
+Test # 3, Build # 2024-03-19 00:00:00: Bug: The delete (x) button doesn't work anywhere
+Test # 1, Build # 2024-03-19 00:00:00: Bug: Adventure mode does not seem to be working, can enter the UI but once loaded, nothing works
+Test # 2, Build # 2024-03-19 00:00:00: user case: Having complications with signing in, had very long loading
+Test # 3, Build # 2024-03-19 00:00:00: User case: Game would freeze midway and would have to refresh browser
+Test # 1, Build # 2024-03-18 00:00:00: clicking on the adventure to play the adventure mode
+Test # 1, Build # 2024-03-19 00:00:00: bug: At about 10 cards left game got stuck, can not continue
+Test # 2, Build # 2024-03-19 00:00:00: bug: After playing a game, and stating a new one, I cannot make any moves
+Test # 3, Build # 2024-03-19 00:00:00: Going to adventure to play 1-1 for The Kingdom
+Test # 6, Build # 2024-03-18 00:00:00: AI doesn't attack if I never place any cards down
+Test # 8, Build # 2024-03-18 00:00:00: User case: Really should add an AFK timer
+Test # 2, Build # 2024-03-13 00:00:00: Click on adventure to enjoy some game content
+Test # 3, Build # 2024-03-13 00:00:00: Going from Attack phase to end turn.
+Test # 3, Build # 2024-03-17 00:00:00: Game mode adventure
+Test # 1, Build # 2024-03-19 00:00:00: bug: adventure -> home, deck builder, back
+Test # 2, Build # 2024-03-19 00:00:00: bug: tutorials -> complete-> pop-up
+Test # 2, Build # 2024-03-19 00:00:00: Home button does not work
+Test # 3, Build # 2024-03-19 00:00:00: User Case: clicking latest news or latest update does nothing
+Test # 1, Build # 2024-03-08 00:00:00: Bug: Does not log in with email.
+Test # 2, Build # 2024-03-08 00:00:00: Bug: Adventure Mode not working.
+Test # 2, Build # 2024-03-13 00:00:00: bug: Unable to play any levels in Adventure tab
+Test # 3, Build # 2024-03-13 00:00:00: bug: Cannot leave Adventure Select screen
+Test # 1, Build # 2024-03-17 00:00:00: The UI on the Adventure page doesn't work
+Test # 2, Build # 2024-03-17 00:00:00: Card Glitches and doesn't activate
+Test # 1, Build # 2024-03-19 00:00:00: Tutorial Does Not Load
+Test # 3, Build # 2024-03-18 00:00:00: bug: voice line after match victory gets played three times with overlapping audio
+Test # 4, Build # 2024-03-18 00:00:00: bug: game sent me back to log in mid battle
+Test # 2, Build # 2024-03-19 00:00:00: bug: After clicking arena, I can't go back to main page by clicking the back arrow
+Test # 3, Build # 2024-03-19 00:00:00: bug: I can't go to the home page after clicking the home button
+Test # 1, Build # 2024-03-18 00:00:00: Game Blocked when during Deck builder Tutorial
+Test # 2, Build # 2024-03-18 00:00:00: When attempting to play a match it sometimes freezes as if no oppenent was found
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 2, Build # 2024-03-19 00:00:00: Bug: Frozen turn
+Test # 1, Build # 2024-03-17 00:00:00: bug: game uses too much memory to open
+Test # 2, Build # 2024-03-18 00:00:00: bug: game uses too much memory to open
+Test # 3, Build # 2024-03-19 00:00:00: bug: game uses too much memory to open
+Test # 0, Build # 3/192024: When you have pending requests then the block and online buttons aren't very responsive
+Test # 1, Build # 2024-03-19 00:00:00: Buttons aren't responsive when exiting friend screen
+Test # 2, Build # 2024-03-19 00:00:00: Master/Music Volume and Sound FX sliders don't change anything
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 3, Build # 2024-03-05 00:00:00: Playing in arena
+Test # 4, Build # 2024-03-05 00:00:00: Click on either arena, adventure, tutorials, nft shops, settings
+Test # 9, Build # 2024-03-18 00:00:00: Click on Adventure and exit out of it
+Test # 3, Build # 2024-03-14 00:00:00: When in the deck builder tutorial, when you are asked to have 20 red cards, the game may log you out completely
+Test # 1, Build # 2024-03-19 00:00:00: Able to exit the deck building tutorial, got softlocked
+Test # 1, Build # 2024-03-13 00:00:00: bug: The back arrow on the Adventure tab doesn't do anything trapping you on the Adventure screen.
+Test # 4, Build # 2024-03-13 00:00:00: bug: You can skip the "Name Your Deck" step of the deck builder tutorial, but the deck won't save without a name, so the NPC moves onto the next dialogue and you are unable to continue.
+Test # 1, Build # 2024-03-19 00:00:00: Bug: Infinite empty wait loop upon entering arena and connecting to an opponent.
+Test # 0, Build # 2024-03-19 00:00:00: Ex user case: game did not log me in
+Test # 1, Build # 2024-03-13 00:00:00: Click to go back to the main page and nothing happen
+Test # 2, Build # 2024-03-13 00:00:00: Click on deck builder but nothing happen
+Test # 3, Build # 2024-03-14 00:00:00: When I click on player frame nothing happen
+Test # 4, Build # 2024-03-14 00:00:00: When I click on player title nothing happen
+Test # 5, Build # 2024-03-14 00:00:00: Click on player banner and nothing happen
+Test # 4, Build # 2024-03-12 00:00:00: Game
+Test # 2, Build # 2024-03-17 00:00:00: Bug: Gives this error after OAth: TypeError: screen.orientation.lock is not a function
+Test # 3, Build # 2024-03-17 00:00:00: User case: Reached Max capacity
+Test # nan, Build # 2024-03-15 00:00:00: Deck Builder tutorial started but frozen with character art on screen, does not progress
+Test # nan, Build # 2024-03-15 00:00:00: Game froze on main page and kicked me to login screen
+Test # 1, Build # 2024-03-17 00:00:00: Game will still
+ not let user return
+ to home page if
+ clicking on adventure
+ tab
+Test # 3, Build # 2024-03-17 00:00:00: Timer for my player 
+ froze and showed to
+ be active for enemy AI
+ even though it was my
+ turn
+Test # 1, Build # 2024-03-17 00:00:00: user case: log me out after closing the page
+Test # 2, Build # 2024-03-17 00:00:00: user case: heavy volume of players
+Test # 3, Build # 2024-03-17 00:00:00: user case: please try again in 10 minutes
+Test # 4, Build # 2024-03-17 00:00:00: user case: please wait message tool too long
+Test # 2, Build # 2024-03-17 00:00:00: When logging back later in the day there was bandwith issues
+Test # 2, Build # 2024-03-16 00:00:00: Stuck on one of the steps in the deck builder tutorial.
+Test # 3, Build # 2024-03-16 00:00:00: Matchmaking process for Arena took too long.
+Test # 2, Build # 2024-03-16 00:00:00: Stuck on one of the steps in the deck builder tutorial.
+Test # 3, Build # 2024-03-16 00:00:00: Matchmaking process for Arena took too long.
+Test # 1, Build # 2024-03-17 00:00:00: trying to login to email play
+Test # 2, Build # 2024-03-17 00:00:00: Login queue
+Test # 1, Build # Use date you 
+ tested on
+ 3/13/2024: After the first phase I tried clicking on the "Complete the tasks…." and the botton is frozen it does nothing
+Test # 2, Build # Use date you 
+ tested on
+ 3/13/2024: Chrome using almost 1,500 Mb, almost all of my Laptop Memory.
+Test # 3, Build # Use date you 
+ tested on
+ 3/13/2024: tutorial coins don't register correctly.
+Test # 4, Build # Use date you 
+ tested on
+ 3/13/2024: Player switches tabs within the game interface.
+Test # 1, Build # Use date you 
+ tested on
+ 3/17/2024: I noticed that there is no logout botton in the game. Once im signed in how do i logout
+Test # 3, Build # 2024-03-17 00:00:00: In the online players. when trying to add a friend. I see a bunch of players to add but they dont have a name or address. It is just in ID format. which makes it hard to tell which player it is.
+Test # 1, Build # 2024-03-17 00:00:00: bug : game froze when other player activated a card on my turn
+Test # 2, Build # 2024-03-17 00:00:00: user case: having to login everytime the page is closed or refreshed
+Test # 3, Build # 2024-03-17 00:00:00: bug: adventure tab cannot return to home screen
+Test # 2, Build # 2024-03-13 00:00:00: Tutorial phase select during first instruction from Luna leads to blocker
+Test # 1, Build # 2024-03-17 00:00:00: Bug: Adventure Mode Doesn't work
+Test # 1, Build # 2024-03-08 00:00:00: Can't log in due to full servers
+Test # 2, Build # 2024-03-08 00:00:00: Can't leave the tutorial after starting it
+Test # 5, Build # 2024-03-08 00:00:00: Back button to exit Adventure Select doesn’t work
+Test # 4, Build # 2024-03-12 00:00:00: Bug Case: Cannot leave screen and clicks do not register
+Test # 2, Build # 2024-03-13 00:00:00: can’t login
+Test # 3, Build # 2024-03-13 00:00:00: not connecting to server
+Test # 2, Build # 2024-03-09 00:00:00: bug: play buton does not click
+Test # 3, Build # 2024-03-09 00:00:00: bug: none of the buttons on this page work
+Test # 5, Build # 2024-03-09 00:00:00: bug: was winning and then site just refreshed
+Test # 1, Build # Use date you 
+ tested on
+ 3/5/2024: Main Page
+Test # 3, Build # ': if I click one card in the current deck multiple times I wont be able to select it because the card will not select and bug itself
+Test # 1, Build # 2024-03-12 00:00:00: Bug
+Test # 4, Build # 2024-03-12 00:00:00: User Case
+Test # 5, Build # 2024-03-12 00:00:00: Bug
+Test # 3, Build # 2024-03-12 00:00:00: Clicking PLAY does nothing
+Test # 4, Build # 2024-03-12 00:00:00: Bug: The timer stopped counting down and it appeared that the game was frozen, despite everything being clickable
+Test # 6, Build # 2024-03-12 00:00:00: Bug: After surrendering and then quickly going back into the Arena, the game appeared to freeze and was not able to be progressed
+Test # 8, Build # 2024-03-12 00:00:00: Bug: I accidentally clicked on "Adventure" instead of "Arena" and was unable to get out of the Adventure page without a refresh
+Test # 2, Build # 2024-03-12 00:00:00: Returning to Main Page
+Test # 3, Build # 2024-03-12 00:00:00: Playing a match
+Test # 4, Build # 2024-03-12 00:00:00: Logining Via email
+Test # 0, Build # 2024-03-07 00:00:00: The return buttons does not respond after adventure select
+Test # 1, Build # 2024-03-06 00:00:00: Game refused to load - required sign in twice
+Test # 2, Build # 2024-03-10 00:00:00: Adventure select randomly caused the game to freeze
+Test # 0, Build # 2024-03-12 00:00:00: Login page stuck at "Login in with email" when you close the tab that opens up after pressing login with email
+Test # 3, Build # 2024-03-12 00:00:00: Logging in after being kicked due to inactivity leads to being stuck in infinite authentication.
+Test # 1, Build # 2024-03-12 00:00:00: Bug: Adeventure mode
+Test # 2, Build # 2024-03-12 00:00:00: Bug: Skipping Tutorial parts
+Test # 3, Build # 2024-03-12 00:00:00: Bug: Arena
+Test # nan, Build # 2024-03-12 00:00:00: Select Different Pack types to buy in the shop.
+Test # nan, Build # 2024-03-12 00:00:00: Play game from marketplace
+Test # 1, Build # 2024-03-12 00:00:00: bug: adventure page still locks and does not allow for return to menu
+Test # 2, Build # 2024-03-12 00:00:00: bug: login authentication failure despite previous sucessful login
+Test # 5, Build # 2024-03-12 00:00:00: bug: stuck on game screen after lose
+Test # 1, Build # 2024-02-24 00:00:00: ex bug: Clicking on PLAY for the deck tutorial doesn't work.
+Test # 1, Build # 2024-08-03 00:00:00: bug: I just clicked adventure and its not letting me play and do anything
+Test # 2, Build # 2024-08-03 00:00:00: bug: I got disconnected from the servers
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # nan, Build # 2024-03-05 00:00:00: The game keeps logging me off. I'm not sure if it's due to inactivity or other reasons, but I would be inactive for only 30 seconds before being logged off.
+Test # nan, Build # 2024-03-13 00:00:00: When I clicked on "Adventure" but wanted to return to the main page right after, neither the back button nor the home button took me back. I had to restart the game.
+Test # nan, Build # 2024-03-13 00:00:00: In Adventure mode, I selected a mission, but I was unable to play even though I had full energy.
+Test # 1, Build # 2024-03-10 00:00:00: bug: When heading over to the adventure page and clicking on one of the missions, it should show the objective list but it's just completely empty. User case: Objective list is displayed but empty
+Test # 1, Build # 2024-03-12 00:00:00: clicking "adventure"
+Test # 3, Build # 2024-03-12 00:00:00: Activating the "Void trap" card during opponets phase
+Test # 1, Build # 2024-03-10 00:00:00: After entering an arena and choosing a deck, it doesnt let you exit to choose another card.
+Test # 2, Build # 2024-03-11 00:00:00: After entering an arena and choosing a deck, it doesnt let you exit to choose another card.
+Test # 3, Build # 2024-03-12 00:00:00: How to obtain button and related cards buttons do not work
+Test # 4, Build # 2024-03-12 00:00:00: It was my turn to play my character and the game froze and went back to the login page.
+Test # 1, Build # 2024-03-12 00:00:00: bug: Every time I activate a trap card game gets stuck and I can no longer do anything
+Test # nan, Build # 2024-03-12 00:00:00: bug: Game got stuck in arena after matchmaking
+Test # 1, Build # 2024-03-12 00:00:00: bug: After clicking on a mission you wont be able to click on anything else and brick the game.
+Test # 1, Build # 2024-03-12 00:00:00: After staying in the deck builder page for over a minute, it will log you out and you will be unable to log back in until you close the page
+Test # 6, Build # 2024-02-27 00:00:00: Bug: force quite game, back to relogin page
+Test # 7, Build # 2024-02-27 00:00:00: Bug: log in after previous force quite
+Test # 8, Build # 2024-02-27 00:00:00: Bug: in game, AI Player 1 timer stopped
+Test # 9, Build # 2024-02-27 00:00:00: bug: searching for game
+Test # 11, Build # 2024-03-12 00:00:00: Tried to leave adventure screen to go back to menu
+Test # 13, Build # 2024-03-12 00:00:00: Game crashed and sent me back to PLAY GAME 
+ screen
+Test # 1, Build # 2024-03-11 00:00:00: Back Button doesn't work on Adventure Select Screen
+Test # 2, Build # 2024-03-11 00:00:00: Home Button doesn't work on Adventure Select Screen
+Test # 5, Build # 2024-03-11 00:00:00: Play Button on Adventure Select Screen doesn't work
+Test # 9, Build # 2024-03-11 00:00:00: Battles sometimes don't load in Arena
+Test # 3, Build # 2024-03-11 00:00:00: I was in an arena against a bot when I used a void trap I had previously set down before to one shot an enemy guardian that was placed during their main phase.
+Test # 1, Build # 2024-03-10 00:00:00: Started Arena game
+Test # 2, Build # 2024-03-10 00:00:00: Upon game failure had to log back in
+Test # 2, Build # 2024-03-11 00:00:00: bug: settings -> exit button does not work
+Test # 4, Build # 2024-03-11 00:00:00: bug: adventure -> back up button doesn’t work
+Test # 5, Build # 2014-03-11 00:00:00: bug: adventure -> 'deck builder' button doesn’t work
+Test # 6, Build # 2024-03-11 00:00:00: bug: adventure -> 'house' button doesn’t work
+Test # 2, Build # 2024-03-12 00:00:00: Home button does not work
+Test # 3, Build # 2024-03-12 00:00:00: User Case: No way of going to main menu
+Test # nan, Build # 2024-03-05 00:00:00: Every time I click on loading deck 
+ The game kicked me out
+Test # 2, Build # 2024-03-11 00:00:00: Bug: Sometimes it does not let me attack.
+Test # 2, Build # 2024-03-06 00:00:00: Bug: Adventure levels don't work (can't play levels even after clicking play)
+Test # 3, Build # 2024-03-06 00:00:00: Bug: Can't exit out of Adventure tab (back button doesn't work on this tab)
+Test # 1, Build # 2024-03-10 00:00:00: Accessing any of the UI in adventure doesn't work
+Test # 1, Build # 2024-03-10 00:00:00: bug: activating void trap pauses the turn timer
+Test # 3, Build # 2024-03-12 00:00:00: bug: can't play the game. Stuck on a screen playing music
+Test # 4, Build # 2024-03-12 00:00:00: user case: I was in a middle of a battle and I had to login again
+Test # 5, Build # 2024-03-12 00:00:00: user case: After being interuppted in my battle I was told to login. So i did and I'm stuck on the page just waiting listening to the battle music
+Test # 2, Build # 2024-03-11 00:00:00: When doing the Deck Builder Tutorial the Info Cut in blocks the view of button
+Test # 3, Build # 2024-03-11 00:00:00: Following the steps above if you let it time out and log you out the Info Cut-in doesn't disapear and can't click to re-login
+Test # 4, Build # 2024-03-12 00:00:00: When I click on the adventure tab non of the buttons work and I can't go back.
+Test # nan, Build # 2024-03-12 00:00:00: Logged in and kept getting kicked out
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 1, Build # 2024-03-05 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-03-05 00:00:00: User: Latency indicator blocking GUI elements
+Test # 3, Build # 2024-03-05 00:00:00: Bug: Game times out and logs me out within one minute
+Test # 4, Build # 2024-03-11 00:00:00: Bug: Stuck on adventures screen
+Test # 1, Build # 2024-03-07 00:00:00: bug: game uses too much memory to open
+Test # 2, Build # 2024-03-12 00:00:00: bug: game uses too much memory to open
+Test # 0, Build # 2024-03-11 00:00:00: Stuck on adventure select page
+Test # 1, Build # 2024-03-11 00:00:00: Stuck on authenticating
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 3, Build # 2024-03-05 00:00:00: Playing in arena
+Test # 4, Build # 2024-03-05 00:00:00: Click on either arena, adventure, tutorials, nft shops, settings
+Test # 1, Build # 2024-03-12 00:00:00: Cannot Exit Adventure menu
+Test # 3, Build # 2024-03-11 00:00:00: bug: Starting the deck builder tutorial, you can back out of the tutorial but the limited clicking region remains, locking the game.
+Test # 1, Build # 2024-03-12 00:00:00: Bug: Went into Adventure, none of the UI was working, couldn't go back home or enter any of the locations.
+Test # 2, Build # 2024-03-12 00:00:00: user case: Went into Arena, got into battlefield but nothing else loaded
+Test # 3, Build # 2024-03-12 00:00:00: User case: Opponent went and instantly crashed
+Test # 2, Build # 2024-03-12 00:00:00: Adventure Select: Almost all of the buttons have no function, missions are not selectable. Cannot exit adventure select.
+Test # 6, Build # 2024-03-12 00:00:00: Arena AI Player: Activating trap card freezes game.
+Test # 1, Build # 03/11/2024 Mobile: Stuck on AI turn(timer stuck at 71)
+Test # 1, Build # 2024-03-07 00:00:00: Unable to escape Adventure mode
+Test # 1, Build # 2024-03-02 00:00:00: playing arena
+Test # 1, Build # 2024-03-10 00:00:00: Bug: I clicked on adventure mode and the screen got stuck on that page. I had to close the entire EG tab to reenter the game
+Test # 4, Build # 2024-03-01 00:00:00: No preset decks
+Test # 5, Build # 2024-03-01 00:00:00: Deck builder A-Z sort doesn't work
+Test # 6, Build # 2024-03-10 00:00:00: Adventure select not working
+Test # 7, Build # 2024-03-10 00:00:00: Settings opens behind news window
+Test # 2, Build # 2024-03-09 00:00:00: Adventure's UI doesn't work
+Test # 1, Build # 2024-03-08 00:00:00: Stuck on Authentication
+Test # 2, Build # 2024-03-08 00:00:00: high volume of users
+Test # 3, Build # 2024-03-08 00:00:00: log in loading
+Test # 1, Build # 2024-03-08 00:00:00: Stuck on Authentication
+Test # 2, Build # 2024-03-08 00:00:00: high volume of users
+Test # 3, Build # 2024-03-08 00:00:00: log in loading
+Test # 1, Build # Use date you 
+ tested on
+  3/11/2024: In player profile view. The Player Frame does not show anything on click
+Test # 2, Build # 2025-03-11 00:00:00: i noticed while in setting menu that the X button on top right does not exit out.
+Test # 3, Build # 2024-03-11 00:00:00: In player profile view. The Player Title does not show anything on click
+Test # 4, Build # 2024-03-11 00:00:00: in player profile view. The player Banner button does nothing
+Test # 2, Build # 2024-03-10 00:00:00: bug
+Test # 4, Build # 2024-03-10 00:00:00: bug
+Test # nan, Build # 2024-03-09 00:00:00: bug: cannot play deck building tutoria
+Test # nan, Build # 2024-03-09 00:00:00: ex bug: Played against AI doesnt respond
+Test # nan, Build # 2024-03-09 00:00:00: bug: cannot return to home screen from adventure tab
+Test # 1, Build # 2024-03-06 00:00:00: Game would not let
+ me leave the 
+ adventure select
+ page
+Test # 4, Build # 2024-03-06 00:00:00: Game will not let 
+ one of the players 
+ perform operations 
+ (draw,battle, main phase, 
+ etc.) if you leave the 
+ tab during a turn change
+ Has done both for user 
+ and AI
+Test # 5, Build # 2024-03-06 00:00:00: If for some reason you
+ attempt to draw a card 
+ during the opponent 
+ turn, the opponent cannot
+ procede
+Test # 1, Build # 2024-02-24 00:00:00: user case: multiple windows overlapping(I pressed leader board and then setting)
+Test # 2, Build # 2024-02-24 00:00:00: user case: player frame/player title/player banner unclickable
+Test # 3, Build # 2024-02-24 00:00:00: user case: volume button doesn't change when adjusting it, it only changes after you save it (you wouldn't be able to know how much volume for '42' would be before you save it)
+Test # 1, Build # 2024-03-07 00:00:00: Page not working properly
+Test # 3, Build # 2024-02-27 00:00:00: Once user is on the Main Page screen, user clicks on the round Friends button on the right. User sees a friends menu sliding form the right. User then clicks "Add Friend", a screen appears, the background becomes blurry. User then clicks on the X button to close the screen. The pop-up disappers but the Main Page screen remains blurry for the user, nothing is clickable. User has to reload the game and log in again. See image file attached to the submission.
+Test # 0, Build # 2024-02-27 00:00:00: Click add friend icon, then press back icon to return to main page
+Test # 1, Build # 2024-02-27 00:00:00: Playing tutorial
+Test # 1, Build # 2024-02-26 00:00:00: Game board doesn't display on Chrome web browser
+Test # 2, Build # 2024-02-26 00:00:00: Game board doesn't display on Safari web browser
+Test # 3, Build # 2024-02-26 00:00:00: Play button for Deck Build Tutorial not working
+Test # nan, Build # 2024-02-28 00:00:00: Navigating to friends list then exiting stops at a blurred screen that can't be clicked on
+Test # 4, Build # 2024-02-21 00:00:00: Cannot access the deck building tutorial
+Test # 2, Build # 2024-02-25 00:00:00: bug: It does not allow the user to do the deck builder tutorial, then if you re-do the Gameplay  tutorial it will show that the deck builder tutorial is complete.  user case: non-responsive to click
+Test # 1, Build # 2024-02-27 00:00:00: bug: Play botton does not work
+Test # 2, Build # 2024-02-22 00:00:00: Clicking on the Add Friends button and going back to the Home Page causes the Home Page to be entirely unclickable, requiring a re-login
+Test # 0, Build # 2024-02-21 00:00:00: Coins are offered again after completing the tutorial
+Test # 1, Build # 2024-02-27 00:00:00: After completeing the tutorial and going back to the login screen it got stuck on login with email
+Test # 2, Build # 2024-02-27 00:00:00: After completeing the tutorial and going back to the login screen it got stuck on after authenication to "connecting to server"
+Test # 4, Build # 2024-02-27 00:00:00: Gameplay Tutorial
+Test # 1, Build # 2024-02-27 00:00:00: One of the bugs I found in the game is while doing the tutorial for gameplay if I click in one card and move to another instruction inside the game, the current steps does not update correctly
+Test # 3, Build # 2024-02-27 00:00:00: One of the bugs I found in the game is that if I try to reload the page the game would crash and disconnect me from the servers, as well the loading connecting to servers appear again like the one from test #2
+Test # 6, Build # 2024-02-22 00:00:00: User Case
+Test # 3, Build # 2024-02-22 00:00:00: Game starts in endless loop
+Test # 8, Build # 2024-02-27 00:00:00: Refreshing does not fix frozen state
+Test # 1, Build # 2024-02-21 00:00:00: Bug: Deck BuilderTutorial
+Test # 2, Build # 2024-02-21 00:00:00: Bug: Normal Tutorial practrice
+Test # 1, Build # 2024-02-24 00:00:00: Clicking the Deck Builder Tutorial doesn't work.
+Test # 2, Build # 2024-02-24 00:00:00: Clicking into the Card Deck Menu
+Test # 8, Build # 2024-02-24 00:00:00: Starts all over with authentication
+Test # 14, Build # 2024-02-24 00:00:00: battle mode not activated
+Test # 15, Build # 2024-02-24 00:00:00: timer stuck
+Test # 16, Build # 2024-02-27 00:00:00: Page frozen
+Test # 17, Build # 2024-02-27 00:00:00: Moved to new tab, came back and game logged me out
+Test # 18, Build # 2024-02-27 00:00:00: Still connecting to server after several minutes after authentication
+Test # 1, Build # 2024-02-24 00:00:00: Clicking on PLAY for the deck tutorial doesn't work.
+Test # 1, Build # 2024-02-25 00:00:00: bug: clicking tutorial deck builder is not letting me access the tutorial
+Test # 2, Build # 2024-02-25 00:00:00: bug: Deck Tutorial appears complete
+Test # 4, Build # 2024-02-25 00:00:00: bug: the game froze but the music continues
+Test # 1, Build # 2024-02-27 00:00:00: tried to login with my Gmail, it gets Authenticatedand tells me " now you can close this tab and return to the game" when I return to the game page it only shows "Connecting to server…" and it doesn’t, waited 10 min didn't work
+Test # 2, Build # 2024-02-27 00:00:00: I tried again an hour later it worked while doing the 1st Tutorial 1 minute in logged me out and I still heard the game music, but I am out of the game and couldn’t login again.
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Game boots me back to main menu during tutorial
+Test # 2, Build # 2024-02-27 00:00:00: User: Latency indicator blocking GUI elements
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match
+Test # 4, Build # 2024-02-27 00:00:00: Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out
+Test # 1, Build # 2024-02-27 00:00:00: Bug: Whenever I try to find a match online or go to the training, the game does not load into the game, and is just stuck loading the match
+Test # 4, Build # 2024-02-27 00:00:00: Bug? Whenever I ask friend to battle, and they accept, the game loads in, but logs both of us out
+Test # 3, Build # 2024-02-25 00:00:00: bug: whenever i try to flip the "void trap" card the game stops working (i still hear the game and see the game background effects moving, but timer stops.)
+Test # 4, Build # 2024-02-27 00:00:00: bug: unable to connect to server after doing the authorization
+Test # 2, Build # 2024-02-27 00:00:00: Clicking play does not start tutorial
+Test # 3, Build # 2024-02-22 00:00:00: bug: could not click on any buttons at the beginning of training mode
+Test # 6, Build # 2024-02-24 00:00:00: bug: in training mode, selecting rain of arrows during enemy turn pauses timer indefinitely and stops AI from acting
+Test # 7, Build # 2024-02-26 00:00:00: bug: battle won't start in training mode
+Test # 2, Build # 2024-02-27 00:00:00: Stuck on Connecting to Server
+Test # 3, Build # 2024-02-27 00:00:00: Tutorial battle
+Test # 5, Build # 2024-02-27 00:00:00: Launch Deck Builder Tutorial
+Test # 2, Build # 2024-02-21 00:00:00: I actvatied Rain of Arrows, when a prompt came up for it during a practice battle
+Test # 5, Build # 2024-02-27 00:00:00: beginning next tutorial after the first is completed
+Test # 0, Build # Use date you 
+tested on
+2/25/2024: Bug: I am on Mac OS and when I click on “New Player” it takes me to a tutorial and it says “To begin the game, draw a new card.” And it does not let me draw any cards. The browser I am playing on is Chrome.
+Test # 1, Build # 2024-02-25 00:00:00: User Case I tried scrolling left and right when
+Test # 2, Build # 2024-02-27 00:00:00: user case: after using email to login, return back to the original page, it shows "connectting to the server", and never goes to the next step
+Test # 2, Build # 2024-02-21 00:00:00: Unable to access deck builder tutorial.
+Test # 4, Build # 2024-02-21 00:00:00: Tutorial 1 - Clicking on the fighter card brings up a window to activate or retire the card, causes tutorial cutscene to lock.
+Test # 5, Build # 2024-02-21 00:00:00: Tutorial 1 - Retired all attack cards during turn, between tutorial scenes.
+Test # 7, Build # 2024-02-21 00:00:00: Adventure, AI Battle – During enemy turn, I spammed clicked the phase button and the AI is unable to react. Timer also stopped counting down.
+Test # 9, Build # 2024-02-25 00:00:00: Adventure, AI Battle – During the enemy phase, rapidly clicking the hire button on one of my cards causes enemy AI to stall, the turn to never be player turn, or cause the Timer during the enemy phase to freeze.
+Test # 10, Build # 2024-02-25 00:00:00: Arena – After matching with another player the game never starts, the Exit Tutorial button is present, so this could be related to the tutorial testing I was doing beforehand. Edit: upon logging out and logging back in, the error persists. I am unable to play with human players.
+Test # 3, Build # 2024-02-26 00:00:00: Blurry and unresponsive main page
+Test # 6, Build # 2024-02-26 00:00:00: Tutorial could not be completed
+Test # 2, Build # 2024-02-27 00:00:00: Bug: Opening friends list and then open "Add Friends" and then closing both menus
+Test # 1, Build # 2024-02-25 00:00:00: Magic Authentication link times out and doesn’t recover
+Test # 2, Build # 2024-02-26 00:00:00: Literally the same issue as before, can't login magic authentication keeps timing out before it can authenticate me
+Test # 2, Build # 2024-02-21 00:00:00: bug: Clicking "Tutorials" -> Deck Builder Tutorial does nothing
+Test # 6, Build # 2024-02-27 00:00:00: Bug: force quite game, back to relogin page
+Test # 7, Build # 2024-02-27 00:00:00: Bug: log in after previous force quite
+Test # 8, Build # 2024-02-27 00:00:00: Bug: in game, AI Player 1 timer stopped
+Test # 9, Build # 2024-02-27 00:00:00: bug: searching for game
+Test # 1, Build # 2024-02-23 00:00:00: Card cannot be clicked on. Prevented by an overlay
+Test # 3, Build # 2024-02-27 00:00:00: After user is kicked from inactivity, user can no longer log back in
+Test # 1, Build # 2024-02-21 00:00:00: When exiting out of the friends menu, the game stays blurred and doesn't allow me to proceed to the rest of the game
+Test # 1, Build # 2024-02-20 00:00:00: bug:The deck builder tutorial button did not work.
+Test # 2, Build # 2024-02-27 00:00:00: user case: extreamly high latency on windows 11 pc, running on chrome browser. Specs: i9900kf, 2070 super, 32gb ram ddr4, m.2 ssd. Hardwired Lan connection to internet
+Test # 2, Build # 2024-02-23 00:00:00: When playing against AI in training mode, AI freezes after player selects a card to activate on the AI’s turn
+Test # 3, Build # 2024-02-27 00:00:00: When attempting to play an Arena Match or a training match, I am logged out as soon as the arena loads
+Test # 5, Build # 2024-02-28 00:00:00: ex bug: clicking deck tutorial won't let me play
+Test # 6, Build # 2024-02-28 00:00:00: ex bug: clicking deck tutorial exits out or the tutorial side bar
+Test # 0, Build # 2024-02-26 00:00:00: Bug: The E-Axe Void Mode overlay became stuck after double clickg the "Gargoyle" card and clicking "Activate". When it was time to enhance the stats of the Guardian using action cards, the card was not selectable since the E-Axe Void Mode overlay was in the way
+Test # 1, Build # 2024-02-26 00:00:00: Bug: When aggressively clicking around during the phase selector for Main Phase 2, the highlight box got stuck and the phase selector overlay disappeared
+Test # 5, Build # 2024-02-26 00:00:00: Bug: You can click the phase selector before the tutorial instructs you to draw a new card to begin gameplay. When you do that, the phase selector overlay gets stuck and prevents you from clicking to draw the card
+Test # 15, Build # 2024-02-27 00:00:00: Bug: After closing the "Add Friends", the background stays blurry and prevents further navigation of the website
+Test # 23, Build # 2024-02-27 00:00:00: Bug: I was able to "Hire" and "Set" every card by the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress
+Test # 24, Build # 2024-02-27 00:00:00: Bug: I was able click "Activate" on the "Cursed Jian" card before the Main Phase 2 stage in the Gameplay tutorial and the tutorial became stuck and was not able to progress since the "Cursed Jian" overlay was covering the card I was supposed to "Set" to progress the tutorial
+Test # 3, Build # 2024-02-27 00:00:00: When I got disconnected while doing the first gameplay tutorial, I got back on 20 minutes later and it said I had finished it. I clicked the play and it still worked and I was able to do the tutorial but doing the tutorial made the game think I had completed the deck builder tutorial as well. Now when I try to do the deck builder tutorial nothing happens when I click play.
+Test # 3, Build # 2024-02-27 00:00:00: bug: randomly disconnected
+Test # 4, Build # 2024-02-27 00:00:00: bug: stuck in authentication screen after logout
+Test # 5, Build # 2024-02-27 00:00:00: bug: cannot connect to server
+Test # 2, Build # 2024-02-26 00:00:00: Bug: Locked on the Tutorial
+Test # 4, Build # 2024-02-26 00:00:00: Bug: Timer still counts down during tutorial instructional pop-ups, auto logs you out after
+Test # 5, Build # 2024-02-26 00:00:00: Bug: In the Tutorial when prompted to use Cursed JIAN, Earth Cocktail, etc you can double click the card quickly and be unable to actually use the cards on your guardians
+Test # 2, Build # 2024-02-27 00:00:00: Game logged out user during gameplay tutorial
+Test # 7, Build # 2024-02-27 00:00:00: bug: A blur layer added when clicking "Add Friends" never goes away.
+Test # 15, Build # 2024-02-27 00:00:00: bug: During the tutorial, the blue clickable region allows interacting with outside elements which can block progression. By swishing the mouse back and forth quickly over the barrier of the blue region the neighboring card can become selected. Then, the "activate" button is within the clickable blue region which can cause a popup menu that blocks progression and the buttons to interact with it are outside of the blue region which is still the original card the tutorial intended for you to click.
+Test # 1, Build # 2024-02-27 00:00:00: Logging in after being kicked due to inactivity leads to being stuck in infinite authentication.
+Test # 2, Build # 2024-02-27 00:00:00: Login page stuck at "Login in with email" when you close the  tab that opens up after pressing login with email
+Test # 1, Build # 02/27/2024 Mobile: Stuck In Deck Builder Tutorial
+Test # 2, Build # 02/27/2024 Mobile: Stuck at Login with email screen
+Test # 3, Build # 2024-02-26 00:00:00: After clicking friends, add friends, then exiting the add friends tab, I cant click anyhting in the main menu, its all blurred out
+Test # 4, Build # 2024-02-26 00:00:00: After creating my deck and selecting it, i tried going into the arena, and as the game loaded it just kicked me out to the sign in page
+Test # 1, Build # 2024-02-20 00:00:00: Would not let me select guardian to activate 
+ abilities
+Test # 5, Build # 2024-02-20 00:00:00: Deck builder tutorial does not launch when clicked
+Test # 7, Build # 2024-02-20 00:00:00: Timer froze when playing AI match
+Test # 9, Build # 2024-02-25 00:00:00: Stuck on endless loop on first turn of game during 
+ selection phase. Just repeated pop ups of 
+ "Selection Phase"
+Test # 2, Build # 2024-02-25 00:00:00: Loading tutorials
+Test # 1, Build # 2024-02-25 00:00:00: Cant proceed in tutorial, certain actions
+ get blocked on half monitor screen
+Test # 2, Build # 2024-02-25 00:00:00: Click on deck builder tutorial and it 
+ wont proceed
+Test # 5, Build # 2024-02-25 00:00:00: Exiting addd friend menu doesn't exit
+Test # 10, Build # 2024-02-25 00:00:00: "How to Obtain" button doesn't work
+Test # nan, Build # 2024-02-25 00:00:00: "Related card" button doesn't work
+Test # 1, Build # 2024-02-23 00:00:00: Clicking on tutorial elements before being prompted to do leads to softlock
+Test # 1, Build # 2024-02-24 00:00:00: Doesn’t stay logged in.
+Test # 2, Build # 2024-02-24 00:00:00: Friend's list has no back option.
+Test # 3, Build # 2024-02-24 00:00:00: inaccessible deck builder tutorial
+Test # 5, Build # 2024-02-24 00:00:00: "set" cards with "flip" effect, when activated during enemy turn, stops match
+Test # 3, Build # 2024-02-24 00:00:00: inaccessible deck builder tutorial
+Test # 5, Build # 2024-02-24 00:00:00: "set" cards with "flip" effect, when activated during enemy turn, stops match
+Test # 1, Build # 2024-02-25 00:00:00: user case: changing turns
+Test # 2, Build # 2024-02-25 00:00:00: bug:after loggin in with email, game closed after 30 seconds of no movement and was unable to login again without closing browser
+Test # 1, Build # 2024-02-25 00:00:00: Deck builder tutorial button not doing anything.
+Test # 1, Build # 2024-02-25 00:00:00: bug: After dragging out the screen, the game no longer allows users to select highlighted cards.
+Test # 1, Build # 2024-02-24 00:00:00: Deck Builder button tutorial not clickable
+Test # 2, Build # 2024-02-25 00:00:00: AI Froze On Draw
+Test # 1, Build # Use date you 
+ tested on
+ 2/25/2024: After the first phase I tried clicking on the "Complete the tasks…." and the botton is frozen it does nothing
+Test # 2, Build # Use date you 
+ tested on
+ 2/25/2025: Chomre using almost 1,500 Mb, almost all of my Laptop Memory.
+Test # 2, Build # 2024-02-25 00:00:00: Bug: Link is block
+Test # 1, Build # 2024-02-25 00:00:00: Trying to play/test the game
+Test # 2, Build # 2024-02-25 00:00:00: Bug: Deck Builder Tutorial does not take me to the tutorial
+Test # 5, Build # 2024-02-25 00:00:00: Bug: I tried playing the against AI Opp. in the Adventure mode, and the whole thing bugged out
+Test # 1, Build # 2024-02-24 00:00:00: bug : build deck tutorial play button does not work
+Test # 2, Build # 2024-02-24 00:00:00: user case: having to relog every time the page is closed or refreshed
+Test # 1, Build # 2024-02-25 00:00:00: A frozen screen
+Test # 2, Build # 2024-02-25 00:00:00: Logged out
+Test # 1, Build # 2024-02-25 00:00:00: A frozen screen
+Test # 2, Build # 2024-02-25 00:00:00: Logged out
+Test # nan, Build # 2024-02-25 00:00:00: Clicking on the deck builder tutorial does not start it
+Test # 2, Build # 2024-02-24 00:00:00: Selecting the Build Deck didn't do anything after complete the first gameplay tutorial
+Test # 2, Build # 2024-02-22 00:00:00: Adding card to deck adds it.
