@@ -1,0 +1,16 @@
+Format: CompuServe Graphics Interchange Format (GIF)
+Duration: 3.080000 seconds
+Size: 1912672 bytes
+Bitrate: 4967979 bits/s
+
+Stream #0:
+Codec: None
+Codec Type: video
+Width: 320
+Height: 180
+Frame Rate: 24/1
+Bitrate: N/A bits/s
+
+
+
+All files included in gif: ['Proj3_VFX_chaja_Spring2026/avengers_chaja_VFX_FrankGonzalez_v02.png', 'Proj3_VFX_chaja_Spring2026/drdoom_chaja_VFX_FrankGonzalez_v01.png', 'Proj3_VFX_chaja_Spring2026/infinity_chaja_VFX_FrankGonzalez_v03.png']
